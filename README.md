@@ -1,6 +1,6 @@
 # ML Interview Task
 
-Task for roles requiring machine learning expertise. We understand technical tasks can take time, especially when you are interviewing multiple companies.  We have decided on a review style task as we believe this is lighter and meets the same goal. Feedback would be appreciated.
+Task for roles requiring machine learning expertise. We understand technical tasks can take time, especially when you are interviewing multiple companies.  We have decided on a review style task as we believe this is lighter and meets the same goal.
 
 It consists of:
 
@@ -15,6 +15,6 @@ This is to understand your level of experience building models pipelines using t
 This is to see wether you are comfortable with Python and know how to assess models beyond AUC measures. If you're bursting with ideas and not time, feel free to finish with bullet points.
 
 - An Extremely Relevant Discussion
+- 
 
-
-Nothing to do here except a heads up. It's something we will inevitably talk about as this model and its improvement is a key company goal.
+Nothing explicit to do. It's something we will inevitably talk about as this model and its improvement is a key company goal.
