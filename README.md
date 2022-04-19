@@ -15,6 +15,6 @@ This is to understand your level of experience building models pipelines using t
 This is to see wether you are comfortable with Python and know how to assess models beyond AUC measures. If you're bursting with ideas and not time, feel free to finish with bullet points.
 
 - An Extremely Relevant Discussion
-- 
+
 
 Nothing explicit to do. It's something we will inevitably talk about as this model and its improvement is a key company goal.
