@@ -1,6 +1,6 @@
 # ML Interview Task
 
-Task for roles requiring machine learning expertise. We understand technical tasks can take time, especially when you are interviewing multiple companies.  We have decided on a review style task as we believe this is lighter and meets the same goal. 
+Task for roles requiring machine learning expertise. We understand technical tasks can take time, especially when you are interviewing multiple companies.  We have decided on a review style task as we believe this is lighter and meets the same goal. Please read through and take notes. We will use this as discussion point in the technical interview.
 
 It consists of:
 
