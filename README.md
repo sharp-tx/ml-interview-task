@@ -1,6 +1,6 @@
 # ML Interview Task
 
-One of the biggest challenges for us is predicting the risk of an event happening based on certain features. The task is to estimate the risk of death within 5 years on the folowing dataset.
+One of the biggest challenges for us is predicting the risk of an event happening based on certain features. The task is to estimate the risk of death within 7 years on the folowing dataset.
 
 This dataset contains measurements of serum free light chain for 7874 subjects[1].
 
@@ -22,7 +22,7 @@ The endpoint is death, which occurred for 2169 subjects (27.5%).
 ## Task
 
 We would like you to:
-- Create a prototype model estimating the risk of death within 5 years, using python
+- Create a prototype model estimating the risk of death within 7 years, using python
 - Detail the approach you have taken
 - Visualise the output of the model using an appropriate format
 - Explain model selection and justification as to why this was chosen over other approaches
