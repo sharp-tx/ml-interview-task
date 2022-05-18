@@ -28,7 +28,6 @@ We would like you to:
 - Explain model selection and justification as to why this was chosen over other approaches
 - Success criteria
 - Highlight any current limitations in the model
-- Highlight any key findings or insights
 - Discuss subsequent next steps
 
 We will not be looking into the details of the paper.
